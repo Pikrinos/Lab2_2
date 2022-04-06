@@ -4,6 +4,7 @@
     <string name="name_y">Word Scramble by Yanovsky</string>
     <string name="button">Guess the word</string>
     <string name="answers">Number of correct answers</string>
+    <string name="zero">0</string>
     <string-array name="words">
         <item>item</item>
         <item>song</item>
